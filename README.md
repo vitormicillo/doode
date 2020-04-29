@@ -13,8 +13,9 @@ O **Doode** nasceu no Brasil em meados de 2010 como uma rede social com o objeti
 
 10 Anos se passaram e o Doode volta renovado como um canal no youtube ensinando e colaborando ainda mais com o mundo do desenvolvimento web/mobile.
 
-Utilizamos como base para nossos projetos: #Linux - #Laravel - #Voyager #TailwindCSS - #VUE. <br>
-Todas ferramentas 100% gratuitas e de código fonte aberto.
+Utilizamos como base para nossos projetos: <br>
+**#Linux** / **#Laravel** / **#Voyager** / **#TailwindCSS** / **#VUE** <br>
+
 
 Venha fazer parte da rede social do Doode no Slack.<br>
 **[Doode Social Network](https://join.slack.com/t/doodeworkspace/shared_invite/zt-djkg133q-B5hKXkd4rUYebC3u3KliJQ)**
