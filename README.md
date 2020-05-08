@@ -18,12 +18,12 @@ Utilizamos como base para nossos projetos: <br>
 
 
 Venha fazer parte da rede social do Doode no Slack.<br>
-**[Doode Social Network](https://join.slack.com/t/doodeworkspace/shared_invite/zt-djkg133q-B5hKXkd4rUYebC3u3KliJQ)**
+**[Doode Social Network](https://bit.ly/doode-social)**
 
 ### Redes Sociais
-[YOUTUBE](https://www.youtube.com/channel/UC_s8aGEqPhWjaBoEcJ8t-HQ/) | 
+[YOUTUBE](https://bit.ly/doode-youtube) | 
 [TWITTER](https://twitter.com/doodebrasil) |
-[SLACK](https://join.slack.com/t/doodeworkspace/shared_invite/zt-djkg133q-B5hKXkd4rUYebC3u3KliJQ)
+[SLACK](https://bit.ly/doode-social)
 
 <br>
 
@@ -37,7 +37,7 @@ O Laravel não precisa de apresentações, é considerado hoje um dos frameworks
 
 # **[Linux](https://https://distrowatch.com/)**
 O Linux é o sistema operacional raiz do **Doode**, é o sistema operacional padrão adotado por legiões de usuários e developers. <br>
-**Linux** é mundialmente conhecido por ser imune a vírus, spywares, etc.<br>
+**Linux** é mundialmente conhecido por ser imune à vírus, spywares, etc.<br>
 **Linux** é o Sistema Operacional mais utilizando no mundo em Servidores.
 
 
