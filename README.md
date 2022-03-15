@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://doode.com.br/wp-content/uploads/2020/04/doode_center.png" width="400">
+    <img src="http://doode.com.br/images/doode_center.png" width="400" alt="Doode Logo">
 </p>
 
 <p align="center">
